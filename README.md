@@ -1,27 +1,24 @@
-
-<p align="right">
-  <img src="assets/bat-signal-reference.png"
-       width="280"
-       alt="The Batman 2022 Bat-Signal reference">
-</p>
-
-<div align="center">
-
-# GOTHAM
-### THE DARK KNIGHT EDITION
-
-**RISHI SELAM**<br>
-AI & ML ENGINEER · DEVELOPER · PROBLEM SOLVER
-
-[![GitHub](https://img.shields.io/badge/GITHUB-RISHISELAM-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/RishiSelam)
-
-</div>
+ <table>
+  <tr>
+    <td width="70%" valign="middle">
+      <h1>THE DARK KNIGHT</h1>
+      <h3>THE DARK KNIGHT EDITION</h3>
+      <strong>RISHI SELAM</strong><br>
+      AI &amp; ML ENGINEER · DEVELOPER · PROBLEM SOLVER
+      <br><br>
+      <a href="https://github.com/RishiSelam">
+        <img src="https://img.shields.io/badge/GITHUB-RISHISELAM-111111?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="assets/bat-signal.gif" width="220" alt="Animated Bat-Signal">
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-
-`GOTHAM CITY // 2026`
 
 *Somewhere between chaos and order, there is a system worth building.*
 
@@ -50,24 +47,27 @@ I value clean architecture, measurable results, and engineering that works beyon
 ## 03 // CASE FILES
 
 ### [01] TESTPILOT
+
 **Quality Assurance & Test Management Platform**
 
 A full-stack QA engineering platform for managing test cases, test runs, API testing, and defects.
 
 `Next.js` `TypeScript` `Prisma` `SQLite` `Playwright`
 
-[VIEW CASE FILE →](https://github.com/RishiSelam/TestPilot)
+[VIEW PROJECT →](https://github.com/RishiSelam/TestPilot)
 
 ### [02] DOCMIND-VLM
+
 **Multimodal Document Intelligence**
 
 A document intelligence system combining vision-language models, OCR, and retrieval techniques.
 
 `Python` `Qwen2.5-VL` `BM25` `FastAPI` `Next.js`
 
-[VIEW CASE FILE →](https://github.com/RishiSelam/DocMind-VLM)
+[VIEW PROJECT →](https://github.com/RishiSelam/DocMind-VLM)
 
 ### [03] MEALAWE
+
 **Explainable AI for Food Quality Inspection**
 
 A computer vision system designed to inspect food preparation environments and identify hygiene issues.
@@ -78,9 +78,9 @@ A computer vision system designed to inspect food preparation environments and i
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiSelam&show_icons=true&theme=transparent&hide_border=true&title_color=C62828&icon_color=C62828&text_color=AAAAAA)
+<img src="https://github-readme-stats.vercel.app/api?username=RishiSelam&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=C62828&amp;icon_color=C62828&amp;text_color=AAAAAA" alt="GitHub Stats">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSelam&layout=compact&theme=transparent&hide_border=true&title_color=C62828&text_color=AAAAAA)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSelam&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=C62828&amp;text_color=AAAAAA" alt="Top Languages">
 
 </div>
 
@@ -88,6 +88,4 @@ A computer vision system designed to inspect food preparation environments and i
 
 Interested in AI/ML engineering, software development, and building useful technology.
 
-**GOTHAM TERMINAL // END OF TRANSMISSION**
-
-</div>
+**END OF TRANSMISSION**
