@@ -1,4 +1,10 @@
 
+<p align="right">
+  <img src="assets/bat-signal-reference.png"
+       width="280"
+       alt="The Batman 2022 Bat-Signal reference">
+</p>
+
 <div align="center">
 
 # GOTHAM
