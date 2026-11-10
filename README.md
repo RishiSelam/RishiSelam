@@ -98,15 +98,6 @@ An end-to-end analytics pipeline for studying airline operations, passenger dema
 | Testing | Playwright, API Testing, Manual QA |
 | Analytics | Excel, Plotly, Streamlit |
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiSelam&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiSelam&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
-</p>
 
 ---
 
